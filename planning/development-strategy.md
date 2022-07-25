@@ -1,39 +1,47 @@
-# Restaurants finder
+# All About Trees
 
----
+- A website that focuses on importance and benefits of trees.
 
-<!-- ## User Story Dependencies
+## Setup
 
-[Story Dependency Diagram](https://excalidraw.com/)
+<!-- copy this section once for each must-have user story -->
 
----
+## Website Title
 
-## WIREFRAME
+<!-- user story -->
 
-![wireframe]() -->
+<!-- detailed description -->
 
----
+<!-- acceptance criteria -->
 
-## 0.Setup
+<!-- code you think you will need -->
 
-- ...
-- ...
+### Site Title HTML
 
----
+### Site Title CSS
 
-## 1. Title
+## Navbar
 
-**As a user I want to ...**
+>
 
-- This user story is developed on branch `branch-name`.
-- This branch is merged to `master` branch after completion.
+### Navbar HTML
 
-### Task n1
+### Navbar CSS
 
-- ...
-- ...
+## Content
 
-### Task n2
+### Content: HTML
 
-- ...
-- ...
+### Content: CSS
+
+## Images
+
+### Images: HTML
+
+### Images: CSS
+
+## Footer
+
+### Footer: HTML
+
+### Footer: CSS
