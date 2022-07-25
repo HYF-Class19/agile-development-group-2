@@ -32,9 +32,9 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   |   Sunday    |
-| --- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
-| All | 21:00-22:00 | 21:00-22:00 | 21:00-22:00 | 21:00-22:00 | 21:00-22:00 | 21:00-22:00 | 21:00-22:00 |
+| Day          |     Monday     |    Tuesday     |   Wednesday    |    Thursday     |     Friday     | Saturday |     Sunday     |
+| ------------ | :------------: | :------------: | :------------: | :-------------: | :------------: | :------: | :------------: |
+| Anita Sharma | 10:00 to 14:00 | 10:00 to 14:00 | 10:00 to 14:00 | 10:00 to 14:00: | 10:00 to 14:00 |    NA    | 12:00 to 16:00 |
 
 ### How many hours everyone has per day:
 
