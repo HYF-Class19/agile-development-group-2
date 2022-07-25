@@ -36,7 +36,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | ------------ | :------------: | :------------: | :------------: | :-------------: | :------------: | :------: | :------------: |
 | Anita Sharma | 10:00 to 14:00 | 10:00 to 14:00 | 10:00 to 14:00 | 10:00 to 14:00: | 10:00 to 14:00 |    NA    | 12:00 to 16:00 |
 
-### How many hours everyone has per day:
+### How many hours everyone has per day
 
 - Anita Sharma: _5h_; extra comments?
 - Thomas: _6h_;
@@ -50,7 +50,3 @@ how often will we get in touch on each channel, and what we will discuss there:
 1. _0 -> 30 min_: Try on your own
 2. _30 -> 60 min_: Ask your group for help
 3. _60+ min_: Tag your coaches in Slack or GitHub
-
-```
-
-```
