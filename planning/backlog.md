@@ -1,30 +1,38 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
-
-## Must-Haves
+## Must Haves
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- **Home Page**
+  - As a user I can read the title of the page
+    - [ ] _there is a prominent title at the top of the web page_
+  - As a plantsman I can easily understand what is this page about
+    - [ ] _there is an introduction section directly under the navbar describing
+          the project_
+  - As a middle shool student I can find some visual content for my presentation
+    about trees
+    - [ ] _there is main text with links for visual content_
+  - As a user I can be sure that this page is reliable
+    - [ ] _there is a footer with a link to development organization_
 
-## Should-Haves
+## Should Haves
 
-> these will complete the user experience, but are not necessary
+> will complete the user experience, but are not necessary
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- **Home Page**
+  - As a user I can navigate the web page from a navbar
+    - [ ] _there is a navbar at the top of the page with links to the different
+          sections_
+  - As a user I can use contact us link to learn more about our project
+    - [ ] _there is a footer with contact info_
 
-## Could-Haves
+## Could Haves
 
 > would be really cool ... if there's time
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- **Home Page**
+  - as a trees expert I can find some extra information about the trees
+    - [ ] _there is an extra section_
+  - as a user I can enjoy well-elaborated style of the page
+    - [ ] _there is background color, stylish fonts for headers and etc..._
