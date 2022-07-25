@@ -1,6 +1,22 @@
 {
   "language": "en",
-  "words": [],
+  "words": [
+    "Bilde",
+    "Christiaan",
+    "Excalidraw",
+    "Lant",
+    "Nepo",
+    "Olutubo",
+    "plantsman",
+    "Ponomarev",
+    "Renjani",
+    "Sharma",
+    "strikethrough",
+    "Verwijs",
+    "Wireframes",
+    "Yodiz",
+    "Zepel"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
