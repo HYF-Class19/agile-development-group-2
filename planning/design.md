@@ -1,7 +1,8 @@
 # Design
 
-- In this project the webpage 'All about trees` is replicated.
+We decided to keep the design template of the webpage 'All About Trees'project
+unchanged.
 
 ---
 
-- design image
+[Wireframes source](https://excalidraw.com/#json=ZphIt_oLrQA-D1M682LJ5,K67FJOfxnT-yjQD2aAaESw)
