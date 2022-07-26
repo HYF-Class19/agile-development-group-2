@@ -1,6 +1,6 @@
 # Design
 
- We decided to keep the design template of the webpage 'All About Trees'project unchanged.
+We decided to keep the design template of the webpage 'All About Trees'project unchanged.
 
 ---
 
