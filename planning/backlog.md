@@ -17,7 +17,7 @@
   author on social-media
   - [ ] _there is a footer with twitter and linkedin handle_
 
-### Should Haves
+## Should Haves
 
 > will complete the user experience, but are not necessary
 
@@ -27,12 +27,14 @@
   - [ ] _there is a navbar at the top of the page with links to the different
         sections_
 
-#### Could Haves
+## Could Haves
 
 > would be really cool ... if there's time
 
 - **Home Page**
 
-- As a student interested in biology and trees, i should find well explained,
-  informative content about trees
-  - [ ] _there is a youtube and wikipedia link about trees_
+- As a student interested in biology, i can find and download extra information
+  about trees,
+  - [ ] _there is an extra section_
+- As a climate activist, i can view a gallery of different trees,
+  - [ ] _there are some animations_
