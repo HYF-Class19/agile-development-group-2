@@ -1,6 +1,6 @@
 # All About Trees
 
-- A website that focuses on importance and benefits of trees.
+A website that focuses on importance and benefits of trees.
 
 ## Setup
 
@@ -33,7 +33,7 @@ The site needs a clear title that's easy to read at the top of the page.
 
 ### Site Title CSS
 
-- styling to center the title(issue)
+- styling to center the title (issue)
 
 ## Navbar
 
@@ -43,7 +43,7 @@ The site needs a clear title that's easy to read at the top of the page.
 
 ### Navbar HTML
 
-- [ ] links:Introduction,Content,Extras(issue)
+- [ ] links: Introduction, Content, Extras (issue)
 
 ### Navbar CSS
 
