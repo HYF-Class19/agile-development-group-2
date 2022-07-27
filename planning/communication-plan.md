@@ -37,13 +37,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Anita Sharma | 10:00 to 14:00 | 10:00 to 14:00 | 10:00 to 14:00 | 10:00 to 14:00 | 10:00 to 14:00 |       NA       | 12:00 to 16:00 |
 | Helen        | 19:00 to 00:00 | 19:00 to 00:00 | 19:00 to 00:00 | 19:00 to 00:00 | 19:00 to 23:00 | 10:00 to 15:00 | 12:00 to 16:00 |
 | Renjani      | 13:00 to 18:00 | 13:00 to 18:00 | 13:00 to 18:00 | 13:00 to 18:00 | 13:00 to 18:00 |       NA       | 12:00 to 16:00 |
+| John Olutubo | 15:00 to 22:00 | 15:00 to 22:00 | 13:00 to 22:00 | 13:00 to 22:00 | 13:00 to 22:00 |       NA       | 12:00 to 16:00 |
 
 ### How many hours everyone has per day
 
 - Anita Sharma: _5h_; extra comments?
 - Thomas: _6h_;
 - Renjani: _5h_;
-- John Olutubo: _5h_;
+- John Olutubo: _5h_; NB: My schedules are not fixed and may change due to the
+  nature of my student jobs.
 - Michael : _6h_;
 - Helen : _5h_;
 
