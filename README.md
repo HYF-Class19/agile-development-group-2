@@ -50,4 +50,4 @@ It's a simple website that gives information about trees.
 - John Olutubo
 - Helen
 - Renjani
-- Thomas
+- Thomas Ayissi
