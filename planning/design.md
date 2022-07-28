@@ -5,4 +5,4 @@ unchanged.
 
 ---
 
-[Wireframes source](https://excalidraw.com/#json=ZphIt_oLrQA-D1M682LJ5,K67FJOfxnT-yjQD2aAaESw)
+[Wireframes source](public/../../public/design2.png)
