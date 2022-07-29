@@ -46,8 +46,8 @@ It's a simple website that gives information about trees.
 #### Team Members
 
 - Anita Sharma
-- Michael Mugaiga
-- John Olutubo
 - Helen
+- John Olutubo
+- Michael Mugaiga
 - Renjani
-- Thomas
+- Thomas Ayissi

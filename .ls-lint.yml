@@ -16,3 +16,4 @@ ignore:
   - accessibility_report
   - .github
   - .vscode
+  - .idea
