@@ -13,8 +13,8 @@
   the importance of trees.
   - [ ] _there is a youtube and wikipedia links for more information about tree
         on the webpage_
-- As someone interested in trees and save the planet movement, I can contact the
-  author on social-media
+- As a visitor interested in trees and save the planet movement, I can contact
+  the author on social-media
   - [ ] _there is a footer with twitter and linkedin handle_
 
 ## Should Haves
