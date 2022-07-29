@@ -1,1 +1,65 @@
 @import url("./something.css");
+
+.content-text {
+  padding-top: 50px;
+  padding-right: 90px;
+  padding-bottom: 90px;
+  padding-left: 80px;
+  text-align: center;
+}
+
+/* targeting the class centered-items and making it a flexbox with items aligned in the center horizontally */
+.centered-items {
+  display: flex;
+  justify-content: center;
+
+  /* padding of 2% on all sides so other items are not too close */
+  padding: 2%;
+}
+
+.spaced-items {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+/* horizontal line divider for the navbar section of the website */
+
+.bottom-divider {
+  border-style: none none solid none;
+}
+
+/* this is to style the navbar */
+
+.spaced-items a {
+  text-decoration: none;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+  background-color: #7fb18f;
+  color: rgb(12, 12, 11);
+}
+
+/* this is is to styling for the gallery */
+
+h2 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+p {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  padding-left: 5px;
+}
