@@ -9,3 +9,15 @@ Incluant le caroussel.
 Cette vrsion sera une copie du fichier index-two.html
 Mais ave le code CSS du fichier style-vrac-deux-bis.css
 Qui devrza être "modernisé" afin de n'avoir qu'un seul caroussel.
+
+
+Currently the project has two versions in this repository.
+We have to progress in these two direction and chose the most efficient
+to sommit and push to the main/master branch.
+
+
+PROTOCOLE DE SORTIE DE LA BRNAHC ETEMPORAIRE :
+1/ Push cette branche temporaire vers mon Upstream (pour lma sauvegarder en ligne)
+
+2/ Dupliquer cette branche temporaire et supptimer les ficheirs non- neçéssaires.
+
