@@ -18,7 +18,8 @@
     "Yodiz",
     "Zepel",
     "Ayissi",
-    "Galery"
+    "Galery",
+    "callout"
   ],
   "ignorePaths": [
     "node_modules/**",
