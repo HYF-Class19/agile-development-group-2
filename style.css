@@ -1,0 +1,12 @@
+.callout {
+    float: right;
+    width: 50%;
+}
+
+
+img[src*='#center'] {
+    display: block;
+    margin: 0 auto;
+    float: right;
+    width: 50%;
+}
