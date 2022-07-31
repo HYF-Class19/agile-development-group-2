@@ -1,95 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <link
-      rel="icon"
-      type="image/svg+xml"
-      href="public/hack-your-future-logo.jpeg"
-    />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- displays the title of the site in the tab it opens in-->
+    <meta charset="utf-8" />
     <title>All About Trees</title>
-    <!-- linking html file to the css -->
-    <link href="./styles/index.css" rel="stylesheet" />
+
+    <meta name="description" content="a short introduction to trees" />
+    <meta name="author" content="Team HYF" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <link rel="stylesheet" href="/styles.css" />
   </head>
-  <!--in body we will have the actual page content-->
+
   <body>
-    <header class="spaced-items">
+    <header class="centered-items">
+      <img
+        class="bouncy-img"
+        src="/public/happy-tree.jpeg"
+        alt="a smiling tree"
+      />
       <h1>All About Trees</h1>
+      <img
+        class="bouncy-img"
+        src="/public/happy-tree.jpeg"
+        alt="a smiling tree"
+      />
     </header>
-    <!--separate the navbar from the article -->
     <nav class="bottom-divider">
       <div class="spaced-items">
-        <a href="#Home">Home</a>
-        <a href="#About">About</a>
-        <a href="#Gallery">Gallery</a>
-        <a href="#Extra-info">Extra Info</a>
+        <a href="#summary-info">intro</a>
+        <a href="#main-info">content</a>
+        <a href="#extra-info">extras</a>
       </div>
     </nav>
+    <section id="summary-info">
+      <p class="fascinating-words">
+        How do Trees Work? Well, this has been a tough question to answer.
+        <br />
+        My colleagues and I sat down last week and we spent at least 45 minutes
+        thinking about it. Still we have nothing smart to say.
+      </p>
+    </section>
+    <aside id="extra-info" class="aside-info">
+      <p class="aside-text">
+        To learn <s>everything</s> a lot more about trees,
+        <a href="https://en.wikipedia.org/wiki/Tree" target="_blank"
+          >visit this link</a
+        >
+      </p>
+    </aside>
+    <article id="main-info">
+      <p>
+        Since we didn't know what to say, we figured it was best to quote the
+        experts. Here you can find 3 links that taught us everything we know
+        about trees:
+      </p>
+      <ul class="interesting-things">
+        <li>
+          <a
+            href="https://i.pinimg.com/originals/f9/4a/d6/f94ad6c7c8b05d97c284f82edbb3fcd0.jpg"
+            target="_blank"
+            >a very interesting diagram</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://treescharlotte.org/wp-content/uploads/2013/11/How-A-Tree-Works.pdf"
+            target="_blank"
+            >a very interesting article</a
+          >
+        </li>
+        <li>
+          <a href="https://www.youtube.com/watch?v=BickMFHAZR0" target="_blank"
+            >a very interesting video</a
+          >
+        </li>
+      </ul>
+    </article>
 
-    <!-- End of header and navbar, the next part can be started -->
-
-    <!-- article to come before gallery -->
-    <h2 id="Home">Home</h2>
-    <h2 id="About">About</h2>
-    <h2 id="Extra-info">Extra Info</h2>
-    <h2 id="Gallery">Gallery</h2>
-    <nav class="bottom-divider"></nav>
-    <p>
-      "One who plants a tree knowing he will never sit under their shade
-      understands the meaning of life"
-    </p>
-    <div class="column">
-      <div class="column">
-        <img
-          src="public/tree-oak-landscape-view-53435.jpeg"
-          alt="oak tree"
-          width="400"
-        />
-      </div>
-      <div class="column">
-        <img src="public/pexels-photo-142497.jpeg" alt="Forest" width="400" />
-      </div>
-      <div class="column">
-        <img
-          src="public/bellingrath-gardens-alabama-landscape-scenic-158028.jpeg"
-          alt="Gardens"
-          width="400"
-        />
-      </div>
-    </div>
-
-    <!-- header/navbar section of the page ends here, John and helen carry on with article-->
-
-    <!--
-        WORK DISTRIBUTION IN GROUP 2
-        1. Title/navbar/header (Michael)
-        2. sections (Thomas)
-        3. article -article and aside are separated by a straight line- John and Helen
-        4. Aside Anita
-        5. Galery
-        6. Footers(social media github links) (Renjani)
-        -->
-
-    <!--beginning Michael Working Zone-->
-    <header></header>
-    <!--Ending Michael Working Zone-->
-
-    <!--beginning John and Helen Working Zone-->
-    <article></article>
-    <!--ending John and Helen Working Zone-->
-
-    <!--beginning Thomas Working Zone-->
-    <aside></aside>
-    <!--ending Thomas Working Zone-->
-
-    <!--beginning anita Working Zone-->
-    <div></div>
-    <!--ending Anita Working Zone-->
-
-    <!--beginning Renjani Working Zone-->
-
-    <!--ending Renjani Working Zone-->
+    <!-- FOOTER START-->
+    <footer class="top-divider spaced-items">
+      <a href="#">twitter</a> <a href="#">github</a> <a href="#">linkedin</a>
+    </footer>
+    <!-- FOOTER END-->
   </body>
 </html>
