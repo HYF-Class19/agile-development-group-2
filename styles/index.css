@@ -1,10 +1,7 @@
 @import url("./something.css");
 
 .content-text {
-  padding-top: 50px;
-  padding-right: 90px;
-  padding-bottom: 90px;
-  padding-left: 80px;
+  padding: 50px 90px 90px 80px;
   text-align: center;
 }
 
@@ -26,7 +23,7 @@
   padding-bottom: 2%;
 }
 
-/* horizontal line divider for the navbar section of the website */
+/* horizontal  line divider for the navbar section of the website */
 
 .bottom-divider {
   border-style: none none solid none;
