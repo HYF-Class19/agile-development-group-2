@@ -23,3 +23,35 @@ PROTOCOLE DE SORTIE DE LA BRNAHC ETEMPORAIRE :
 
 3/ Pour ue les images s'affichent dans la page Github-Page, il faut les mettre dans le dossier "public"
 
+
+CSS Retiré
+
+0%, 20%, 60%, 100% {
+    transform: translateY(0);
+}
+
+
+40% {
+    transform: translateY(-20px);
+}
+
+80% {
+    transform: translateY(-10px);
+}
+
+
++++++++
+
+.bouncy-img:hover {
+    animation: bounce 1s;
+}
+
+
+.hover-effect {
+    transition: all 0.5s ease;
+}
+
+
+.hover-effect:hover {
+    transform: scale(1.1);
+}
